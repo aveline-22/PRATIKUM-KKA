@@ -40,11 +40,9 @@ Iya, AI sangat membantu dalam menganalisis data karena dapat:
 
 
 
-
 ### Berikut adalah grafik untuk menampilkan rata rata nilai per mata pelajaran:
 
 ![rata-rata nilai](./images/rataratanilai.png)
-
 
 
 
@@ -52,4 +50,4 @@ Iya, AI sangat membantu dalam menganalisis data karena dapat:
 
 ![sebaran](./images/sebaranNilai.png)
 
-✨ *pyhton XI RPL 1*
+✨ *python XI RPL 1*
