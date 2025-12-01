@@ -52,6 +52,4 @@ Iya, AI sangat membantu dalam menganalisis data karena dapat:
 
 ![sebaran](./images/sebaranNilai.png)
 
-
-
 ✨ *pyhton XI RPL 1*
